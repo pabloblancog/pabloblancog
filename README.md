@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Pablo! An iOS Developer based in Madrid, Spain
-
-Here are some ideas to get you started:
+I'm Pablo! An iOS Developer based in Madrid, Spain.
 
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning SwiftUI + Combine
