@@ -2,7 +2,7 @@
 
 I'm Pablo! An iOS Developer based in Madrid, Spain.
 
-- 🔭 I’m currently working @ Expedia Group (VRBO)
+- 🔭 I’m currently working @ Expedia Group (Vrbo)
 - 🌱 I’m currently learning SwiftUI + Combine
 - 👯 I’m looking to collaborate on great innovative iOS projects
 - 💬 Ask me about Swift, SwiftUI, ObjC...
